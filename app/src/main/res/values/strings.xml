@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AjedrezIllo</string>
+
+    <string name="action_previous_move">Previous move</string>
+    <string name="action_next_move">Next move</string>
+    <string name="action_flip">Flip the board</string>
+    <string name="action_game_dialog">Open game dialog</string>
+
+    <string name="game_new">New</string>
+    <string name="game_draw">Draw</string>
+    <string name="game_resignation">Resignation</string>
+
+    <string name="gameStatus_white_to_move">WHITE to move</string>
+    <string name="gameStatus_black_to_move">BLACK to move</string>
+    <string name="gameStatus_stalemate">STALEMATE</string>
+    <string name="gameStatus_white_wins">WHITE wins</string>
+    <string name="gameStatus_black_wins">BLACK wins</string>
+    <string name="gameStatus_draw">DRAW</string>
+    <string name="gameStatus_draw_by_repetition">DRAW BY REPETITION</string>
+    <string name="gameStatus_insufficient_material">INSUFFICIENT MATERIAL</string>
+</resources>
